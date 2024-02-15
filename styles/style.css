@@ -79,14 +79,10 @@
   background: rgba(0, 0, 0, 0.6);
 }
 
-.aligned-text,
-.aligned-text_center,
-.aligned-text_right {
-  display: block;
-}
+
 
 .aligned-text {
-  text-align: left;
+  display: block;
 }
 
 .aligned-text_center {
