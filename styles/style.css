@@ -62,10 +62,8 @@
 .cover {
   position: relative;
   background-image: url(../images/cover.jpg);
-  background-size: cover;
   background-position: 50%;
   background-repeat: no-repeat;
-  background-size: cover;
   z-index: 0;
   padding: 295px 50px 461px 50px;
 }
